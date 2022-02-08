@@ -1,6 +1,7 @@
 import java.util.List;
 
 /**
+ * Sprint1 Specific
  * A class representing shared characteristics of animals.
  * 
  * @author David J. Barnes and Michael Kölling and lewis
