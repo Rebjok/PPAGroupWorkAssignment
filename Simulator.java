@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.awt.Color;
 
 /**
+ * Sprint1 Specific
  * A simple predator-prey simulator, based on a rectangular field
  * containing rabbits and foxes.
  * 
